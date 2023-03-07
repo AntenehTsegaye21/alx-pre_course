@@ -1,2 +1,2 @@
 first git read me.
-updated
+updated: 2
